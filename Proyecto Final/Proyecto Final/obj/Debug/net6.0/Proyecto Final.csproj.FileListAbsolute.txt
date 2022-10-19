@@ -1,0 +1,22 @@
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\Proyecto Final.exe
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\Proyecto Final.deps.json
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\Proyecto Final.runtimeconfig.json
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\Proyecto Final.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\Proyecto Final.pdb
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\refint\Proyecto Final.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.pdb
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.genruntimeconfig.cache
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\ref\Proyecto Final.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\spoay\Documents\GitHub\Proyecto-Final-CSharp-Coderhouse\Proyecto Final\Proyecto Final\obj\Debug\net6.0\Proyecto Final.csproj.CopyComplete
